@@ -1,3 +1,4 @@
 heloo dir dit repo
 
 after first commit change in file
+push on git hub
